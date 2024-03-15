@@ -25,3 +25,6 @@ Based on requirements, I make 16 Coloumn in one table:
 ![Screenshot (2261)](https://github.com/aisyaaaptr/Big_Data_Analysis-Kimia_Farma_Business_Performance-Project_Based_Internship/assets/157786477/51262b0b-ad87-4fbe-924b-c618e576496e)
 
 ![Screenshot (2262)](https://github.com/aisyaaaptr/Big_Data_Analysis-Kimia_Farma_Business_Performance-Project_Based_Internship/assets/157786477/f0059b8e-2934-4c38-9c33-146f0273c36c)
+
+## Step 03: Create Dashboard
+![Dashboard_Fix (1)_page-0001](https://github.com/aisyaaaptr/Big_Data_Analysis-Kimia_Farma_Business_Performance-Project_Based_Internship/assets/157786477/8b5aff1c-5e21-448b-b257-ca1aa39afeee)
