@@ -1,4 +1,4 @@
-# Big_Data_Analysis-Kimia_Farma_Business_Performance-Project_Based_Internship
+# Big Data Analysis Kimia Farma Business Performance Project Based Internship
 A project to analyze Kimia Farma's business performance for 2020-2023 using Big Query to create syntax and Looker Studio to create dashboards. 
 
 ## Tools
